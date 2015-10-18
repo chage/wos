@@ -1,0 +1,10 @@
+{
+  "name": "wos",
+  "description": "A tool to map wos author",
+  "dependencies": {
+    "fast-csv": "*"
+  },
+  "devDependencies": {
+  },
+  "engine": "node >= 0.10.25"
+}
